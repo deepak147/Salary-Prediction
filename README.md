@@ -1,6 +1,6 @@
 # Machine Learning Pipeline for Salary Prediction
 
-This Jupyter Notebook contains a machine learning pipeline for predicting salary using a dataset from `train.csv`.
+This Jupyter Notebook contains a machine learning pipeline for predicting salary.
 
 ## Introduction
 
